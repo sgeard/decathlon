@@ -4,6 +4,8 @@ This is my solution to The Register's 2016 programming challenge written in Fort
 
 See http://www.theregister.co.uk/2016/09/21/programming_competition_roundup
 
+Simon Geard, October 2016
+
 ## Building
 
 If you have an Intel compiler build the program using
